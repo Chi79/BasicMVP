@@ -1,0 +1,7 @@
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\bin\Debug\ERP.Model.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\bin\Debug\ERP.Model.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\bin\Debug\ERP.Common.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\bin\Debug\ERP.Common.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\obj\Debug\ERP.Model.csprojResolveAssemblyReference.cache
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\obj\Debug\ERP.Model.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Model\obj\Debug\ERP.Model.pdb

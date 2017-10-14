@@ -1,0 +1,9 @@
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\ERP.Presenters.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\ERP.Presenters.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\ERP.Common.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\StructureMap.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\ERP.Common.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\bin\Debug\StructureMap.xml
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\obj\Debug\ERP.Presenters.csprojResolveAssemblyReference.cache
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\obj\Debug\ERP.Presenters.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Presenters\obj\Debug\ERP.Presenters.pdb

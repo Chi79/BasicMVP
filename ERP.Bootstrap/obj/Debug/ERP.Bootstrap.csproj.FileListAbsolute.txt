@@ -1,0 +1,13 @@
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Bootstrap.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Bootstrap.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Model.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Presenters.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\StructureMap.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Common.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Model.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Presenters.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\StructureMap.xml
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\bin\Debug\ERP.Common.pdb
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\obj\Debug\ERP.Bootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\obj\Debug\ERP.Bootstrap.dll
+C:\Users\Bruker\Desktop\BasicMVP\MVPFramework\ERP.Bootstrap\obj\Debug\ERP.Bootstrap.pdb
